@@ -1,0 +1,53 @@
+!-- Xft settings -- ! you dont even need this probably 
+
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+
+! transparency ( 0.1 to 0.9 values)
+st.alpha: 1
+
+! inner padding
+st.borderpx: 0
+st.font:        JetBrainsMono Nerd Font:style:medium:pixelsize=16
+
+!! Colors
+
+!! Cappuccin palette
+*.foreground: #D9E0EE
+*.background: #1e1d2d
+
+!! black + grey
+*.color0:     #161320
+*.color8:     #1A1826
+
+!! dark red + red
+*.color1:     #F28FAD
+*.color9:     #E8A2AF
+
+!! green
+*.color2:     #ABE9B3
+*.color10:    #B5E8E0
+
+!! yellow
+*.color3:     #F8BD96
+*.color11:    #FAE3B0
+
+!! purple
+*.color4:     #DDB6F2
+*.color12:    #F5C2E7
+
+!! pink
+*.color5:     #E8A2AF
+*.color13:    #F5C2E7
+
+!! cyan
+*.color6:     #B5E8E0
+*.color14:    #96CDFB
+
+!! white
+*.color7:     #C9CBFF
+*.color15:    #D9E0EE
